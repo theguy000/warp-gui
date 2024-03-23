@@ -6,14 +6,13 @@ WarpGUI is a modern, intuitive graphical interface designed to streamline your w
 
 - **Intuitive Interface**: Designed for ease of use without sacrificing functionality.
 - **Cross-Platform Compatibility**: Runs on various Linux distributions.
-- **Customizable Settings**: Tailor WarpGUI to fit your workflow with customizable settings.
 
 ## Getting Started
 
 ### Prerequisites
 
 - A Linux distribution
-- AppImageLauncher (for integrating AppImages into your system)
+- warp-cli
 
 ### Installation
 
