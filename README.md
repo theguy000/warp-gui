@@ -23,3 +23,20 @@ WarpGUI is a modern, intuitive graphical interface designed to streamline your w
 ```bash
 chmod +x WarpGUI.AppImage
 ```
+3. Launch WarpGUI:
+```
+./WarpGUI.AppImage
+```
+
+Alternatively, you can integrate WarpGUI into your system using AppImageLauncher.
+
+## Usage
+
+After launching WarpGUI, you will be presented with the main interface. From here, you can:
+
+- Connect or disconnect.
+- Access Your License.
+  
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
