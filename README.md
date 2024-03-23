@@ -35,7 +35,7 @@ Alternatively, you can check the [release section](https://github.com/theguy000/
 After launching WarpGUI, you will be presented with the main interface. From here, you can:
 
 - Connect or disconnect.
-- Access Your License.
+- Provide Your License.
   
 ## Contributing
 
