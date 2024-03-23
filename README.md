@@ -28,7 +28,7 @@ chmod +x WarpGUI.AppImage
 ./WarpGUI.AppImage
 ```
 
-Alternatively, you can integrate WarpGUI into your system using AppImageLauncher.
+Alternatively, you can check the release section to install it on your system.
 
 ## Usage
 
