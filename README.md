@@ -1,7 +1,7 @@
 # WarpGUI
 
 A cloudflare warp GUI that works.
-WarpGUI is a modern, intuitive graphical interface designed to streamline your workflow. Built with efficiency and ease of use in mind, WarpGUI offers a seamless experience for managing your tasks.
+WarpGUI is a modern, intuitive graphical interface designed to easily control the warp-cli.
 
 ## Features
 
