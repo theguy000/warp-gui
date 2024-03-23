@@ -28,7 +28,7 @@ chmod +x WarpGUI.AppImage
 ./WarpGUI.AppImage
 ```
 
-Alternatively, you can check the release section to install it on your system.
+Alternatively, you can check the [release section](https://github.com/theguy000/warp-gui/releases/tag/Publish) to install it on your system.
 
 ## Usage
 
